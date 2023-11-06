@@ -1,0 +1,4 @@
+Hola!
+¿Que tal?
+Estoy bien, comprobando si el get next line funciona con lineas de diferentes tamaños, creo que funciona bastante bien y tu?
+Perfecto!
